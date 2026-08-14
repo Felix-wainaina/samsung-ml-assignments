@@ -1,0 +1,14 @@
+# Environments
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (Optional, but best practice is not to push large datasets)
+data/
+*.csv
